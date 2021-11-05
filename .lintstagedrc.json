@@ -1,0 +1,6 @@
+{
+  "{src,tests}.{ts,tsx}": ["prettier --write"],
+  "{src,tests}.{js,jsx,json,css,md,scss,sass,less,yml,yaml,html,svg}": [
+    "prettier --write"
+  ]
+}
